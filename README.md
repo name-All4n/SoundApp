@@ -28,7 +28,7 @@ O sistema conta com um menu interativo que oferece as seguintes opções:
 - **Spring Boot:** Framework para configuração e inicialização da aplicação.
 - **Spring Data JPA:** Para persistência de dados e abstração de consultas SQL.
 - **Hibernate:** Implementação da JPA para mapeamento Objeto-Relacional.
-- **Banco de Dados:** (Configure no `application.properties`, ex: PostgreSQL ou MySQL).
+- **Banco de Dados:** (Configure no `application.properties`, ex: PostgreSQL ou MySQL. Utilizei variaveis locais no `aplication.propertis`, subtitua as variaveis locais pelas creddenciais do seu banco de dados).
 
 ## 📂 Estrutura do Projeto
 
